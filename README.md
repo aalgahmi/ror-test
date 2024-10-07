@@ -26,6 +26,7 @@ To run interactive Ruby, use:
 irb
 ```
 
+
 Ruby on Rails (Rails) is also installed.
 
 ## Creating a Rails Application
